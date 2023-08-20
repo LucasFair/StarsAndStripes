@@ -1,0 +1,14 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\StarsAndStripesV2\bin\Debug\net7.0\StarsAndStripesV2.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\StarsAndStripesV2\bin\Debug\net7.0\StarsAndStripesV2.deps.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\StarsAndStripesV2\bin\Debug\net7.0\StarsAndStripesV2.runtimeconfig.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\StarsAndStripesV2\bin\Debug\net7.0\StarsAndStripesV2.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\StarsAndStripesV2\bin\Debug\net7.0\StarsAndStripesV2.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\StarsAndStripesV2\obj\Debug\net7.0\StarsAndStripesV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\StarsAndStripesV2\obj\Debug\net7.0\StarsAndStripesV2.AssemblyInfoInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\StarsAndStripesV2\obj\Debug\net7.0\StarsAndStripesV2.AssemblyInfo.cs
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\StarsAndStripesV2\obj\Debug\net7.0\StarsAndStripesV2.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\StarsAndStripesV2\obj\Debug\net7.0\StarsAndStripesV2.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\StarsAndStripesV2\obj\Debug\net7.0\refint\StarsAndStripesV2.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\StarsAndStripesV2\obj\Debug\net7.0\StarsAndStripesV2.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\StarsAndStripesV2\obj\Debug\net7.0\StarsAndStripesV2.genruntimeconfig.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\StarsAndStripesV2\obj\Debug\net7.0\ref\StarsAndStripesV2.dll
